@@ -1,4 +1,4 @@
-# Challenge Oracle One 
+## Challenge Oracle One 
 
 ### Índice do Alura Challenges Oracle ONE
 
@@ -87,7 +87,7 @@ A missão de revelar a mensagem abaixo foi consolidada com sucesso!
 
 "pairaibenterns poberr enterncairair enterssenter dentersaifimesober enter tenterr fimesnailimeszaidober enterlenter coberm sufatcenterssober!"
 
-![mensagem-secreta.png](mensagem-secreta.png)
+"parabens por encarar esse desafio e ter finalizado ele com sucesso!"
 
 Valeu Alura + ORACLE ONE por oportunizar a realização desta mensagem. Até o próxima desafio!
 
@@ -95,14 +95,9 @@ Valeu Alura + ORACLE ONE por oportunizar a realização desta mensagem. Até o p
 
 Projeto do desafio 01 - [challenges-oracle-one-01/](https://anaisateodoro.github.io/challenge-01-oracle-one/)
 
-[Alura - Decodificador de texto alura challenges oracle one](https://www.alura.com.br/)
-
-[Trello - Ferramenta para organizar as etapas do desafio e movimentação do painel de gerenciamento de requisitos do desafio](https://trello.com/invite/b/F7hUMZAe/c0215f95381f2e46f3ab0378ce0afd64/desafio-01-decodificador-de-texto-alura-challenges-oracle-one)
-
 [Figma - Interface do usuário (UI)](https://www.figma.com/file/tvFEYhVfZTjdJ5P24RGV21/Alura-Challenge---Desafio-1---L%C3%B3gica?node-id=0%3A1)
 
 ---
-![badge-one-oracle-next-education-desafio-01](cms_files_10224_1644515575BADGE_2.png)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
